@@ -33,11 +33,11 @@ Sydney suburbs:
 
 - [x] Project repository structure created
 - [x] Initial working dataset prepared
-- [ ] Part 1 – Problem Definition and Data Collection
-- [ ] Part 2 – Data Understanding and Feature Engineering
-- [ ] Part 3 – Model Development and Evaluation
-- [ ] Part 4 – Prediction Failure Analysis
-- [ ] Part 5 – Deployment and Reflection
+- [x] Part 1 – Problem Definition and Data Collection
+- [x] Part 2 – Data Understanding and Feature Engineering
+- [x] Part 3 – Model Development and Evaluation
+- [x] Part 4 – Prediction Failure Analysis
+- [x] Part 5 – Deployment and Reflection
 
 ## Technologies
 
